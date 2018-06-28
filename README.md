@@ -1,5 +1,5 @@
-# NodeJs
-NodeJs samples
+# Node.js usefull commands
+
 
 
 *Get the outdated versions of the installed packages.*
