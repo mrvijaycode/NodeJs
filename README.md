@@ -1,7 +1,5 @@
 # Node.js usefull commands
 
-
-
 *Get the outdated versions of the installed packages.*
 ```
 $npm outdated
